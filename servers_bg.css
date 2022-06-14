@@ -1,7 +1,3 @@
 body {
   background: radial-gradient(circle at bottom, #005c1c 0, #004570 80%, #38002e 100%);
-  height: 100vh;
-  margin: 0;
-  padding: 0;
-  background-size: cover;
 } 
